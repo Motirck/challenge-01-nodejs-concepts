@@ -1,8 +1,8 @@
-# Challenge 01 - Node.js Concepts
+# Challenge 01 - Node.js Concepts 🚀🚀🚀
 
 ## About the challenge
 
-### Application Routes
+### Application Routes 🔥
 ---
 
 * POST /users
@@ -12,13 +12,13 @@
 * PATCH /all/:id/done
 * DELETE /all/:id
 
-### Test Specification
+### Test Specification 🔥
 ---
 
 * User tests
 * Todos tests
 
-### Challange Details
+### Challange Details 🔥
 ---
 
 In this challenge, you will have to create an application to train some concepts about Node.js!
@@ -34,7 +34,7 @@ This will be an application to manage tasks (TODO's). It will be allowed to crea
 All this for each specific user (the username will be passed in the header).
 
 
-### Necessary Commands to install dependencies
+### Necessary Commands to install dependencies 📌
 ---
 
 <br>
