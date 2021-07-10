@@ -16,7 +16,7 @@ function checksExistsUserAccount(req, res, next) {
   const userFound = users.find((item) => item.username === username);
 
   if (!userFound) {
-    return res.status(400).json({ error: 'User not found' })
+    return res.status(404).json({ error: 'User not found' })
   }
 
   req.user = userFound;
